@@ -4,10 +4,6 @@ def findDup(word1, word2): # Finds the duplicate character
             return ch
 
 file1 = open("dataf.txt", "r+")
-
-'''
-Split string in half
-'''
     
 score = 0
 
